@@ -1,1 +1,12 @@
-{}
+{
+    "5": {
+        "roll_no": "5",
+        "name": "h",
+        "course": "cse-ds",
+        "semester": "3",
+        "marks": {
+            "g": 67.0,
+            "t": 87.0
+        }
+    }
+}
