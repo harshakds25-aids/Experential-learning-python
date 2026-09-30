@@ -1,0 +1,10 @@
+
+Module 1 is about managing student records in a simple and organized way. The basic logic is to add, view, search, update, and delete student information.
+
+The design uses Python concepts like variables, dictionaries/lists, functions, and file handling. Student details are stored in a JSON/file, so the data can be saved and used again later.
+
+Basic Logic:
+`Student Data → Manage Records → Save Data → Retrieve Data`
+
+This module creates the basic foundation for the Student Result Management System and is used before calculating student results.
+
