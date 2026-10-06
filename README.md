@@ -493,6 +493,6 @@ The Student Result Management System is a practical Python project that manages 
 The project covers three important areas:
 * **Module 1:** Managing student data
 * **Module 2:** Calculating results and grades
-* **Module 3:** Generating the final result report
+* **Module 3:** Testing and Generating the final result report 
 
 The project demonstrates how Python programming concepts can be combined to solve a real-world student record and result management problem.
