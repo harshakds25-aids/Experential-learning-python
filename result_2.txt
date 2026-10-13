@@ -1,0 +1,20 @@
+========================================
+       STUDENT RESULT REPORT
+========================================
+
+Roll Number : 2
+Name        : janhvi
+Course      : ds
+Semester    : 3rd
+
+Subject-wise Marks
+------------------
+oops                      89.00
+dsa                       90.00
+
+Total Marks : 179.00
+Percentage  : 89.50%
+Grade       : A
+Result      : PASS
+
+========================================

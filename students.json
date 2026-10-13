@@ -18,5 +18,15 @@
             "oops": 67.0,
             "dsa": 89.0
         }
+    },
+    "2": {
+        "roll_no": "2",
+        "name": "janhvi",
+        "course": "ds",
+        "semester": "3rd",
+        "marks": {
+            "oops": 89.0,
+            "dsa": 90.0
+        }
     }
 }
